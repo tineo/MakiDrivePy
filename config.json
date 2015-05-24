@@ -1,0 +1,12 @@
+{
+  "authentication": {
+    "client_mail": "your_api_email@developer.gserviceaccount.com",
+    "p12_src": "a_client_file_for_your_project.p12"
+  },
+  "files": [
+    {
+      "path": "/path/to/upload/or/file/to/upload",
+      "folder_id": "ID_Drive_Folder"
+    }
+  ]
+}
